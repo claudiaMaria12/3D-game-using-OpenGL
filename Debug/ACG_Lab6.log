@@ -1,0 +1,38 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(508,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(509,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(526,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(564,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(576,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(589,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(602,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(603,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(613,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(624,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(635,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(651,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(653,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(662,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(673,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(686,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(702,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(704,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(713,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(724,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(737,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(753,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(755,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(764,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(775,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(788,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(805,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(807,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(817,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(828,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(841,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(855,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(857,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\main.cpp(865,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ACG_Lab6.vcxproj -> C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\Debug\ACG_Lab6.exe

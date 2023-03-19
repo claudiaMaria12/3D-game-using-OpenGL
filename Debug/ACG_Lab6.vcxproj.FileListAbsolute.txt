@@ -1,0 +1,7 @@
+F:\Teaching\Sem1\ACG\Lab6\Lab6\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+F:\Teaching\Sem1\ACG\Lab6\Lab6\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.pdb
+C:\Users\danag\Documents\FILS\Anul III\ACG\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect\3d\Debug\ACG_Lab6.exe
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect\3d - teste\Debug\ACG_Lab6.exe
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect\3d - pbun\Debug\ACG_Lab6.exe
+C:\Users\danag\Documents\FILS\Anul III\ACG\TomaDana - GijgaMaria - 1231B\3D\Debug\ACG_Lab6.exe
